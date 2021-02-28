@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T04:48:53.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="rU_U4oheCKjQb3NQg5WB" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T04:49:48.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="62WPreRBICHNeu4RQ5oV" version="14.4.3" type="github">
   <diagram id="Vwi1EXBxK2TPIhp4Lb0i" name="Page-1">
-    <mxGraphModel dx="304" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="524" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,6 +107,9 @@
         <mxCell id="DUE_NzVIsJPlW699FP-4-7" value="EX&lt;br&gt;MEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="80" width="40" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="DUE_NzVIsJPlW699FP-4-71" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="DUE_NzVIsJPlW699FP-4-8" target="DUE_NzVIsJPlW699FP-4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DUE_NzVIsJPlW699FP-4-8" value="MEM&lt;br&gt;WB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="80" width="40" height="280" as="geometry" />
         </mxCell>
@@ -118,13 +121,13 @@
             <mxPoint x="480" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DUE_NzVIsJPlW699FP-4-10" value="RegGen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DUE_NzVIsJPlW699FP-4-10" value="OperandGen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DUE_NzVIsJPlW699FP-4-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DUE_NzVIsJPlW699FP-4-11" target="DUE_NzVIsJPlW699FP-4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DUE_NzVIsJPlW699FP-4-11" value="&lt;span&gt;OperandGen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DUE_NzVIsJPlW699FP-4-11" value="&lt;span&gt;RegGen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DUE_NzVIsJPlW699FP-4-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DUE_NzVIsJPlW699FP-4-13" target="DUE_NzVIsJPlW699FP-4-6">
@@ -177,6 +180,9 @@
         </mxCell>
         <mxCell id="DUE_NzVIsJPlW699FP-4-21" value="ReadProxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DUE_NzVIsJPlW699FP-4-72" style="edgeStyle=none;rounded=0;sketch=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="DUE_NzVIsJPlW699FP-4-22" target="DUE_NzVIsJPlW699FP-4-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUE_NzVIsJPlW699FP-4-22" value="RegFile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="160" width="120" height="80" as="geometry" />
