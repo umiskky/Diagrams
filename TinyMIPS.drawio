@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T04:54:41.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="xD_hXxjIomPm8EZtX9Rv" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T04:55:00.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="wW5ZODImyuUzfYaDOHSh" version="14.4.3" type="github">
   <diagram id="Vwi1EXBxK2TPIhp4Lb0i" name="Page-1">
-    <mxGraphModel dx="633" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1086" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DUE_NzVIsJPlW699FP-4-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="440" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DUE_NzVIsJPlW699FP-4-17" value="ALU" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="40" height="120" as="geometry" />
