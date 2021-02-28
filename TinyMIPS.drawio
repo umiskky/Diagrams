@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T02:30:25.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="L7LtSiRVRwwAphWqA06R" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T02:36:34.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="YgaX5xo0FhZP09Z_l009" version="14.4.3" type="github">
   <diagram id="Vwi1EXBxK2TPIhp4Lb0i" name="Page-1">
-    <mxGraphModel dx="634" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,24 @@
         </mxCell>
         <mxCell id="DUE_NzVIsJPlW699FP-4-8" value="MEM&lt;br&gt;WB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="80" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DUE_NzVIsJPlW699FP-4-9" value="PipelineController" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="960" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DUE_NzVIsJPlW699FP-4-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DUE_NzVIsJPlW699FP-4-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DUE_NzVIsJPlW699FP-4-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DUE_NzVIsJPlW699FP-4-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DUE_NzVIsJPlW699FP-4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
