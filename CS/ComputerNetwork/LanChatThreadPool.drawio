@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T15:04:50.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" etag="bqRINf2O2ODi6s22s-l4" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T15:06:35.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" etag="nhgZ_fyL9djA0YC_kZjg" version="14.6.6" type="github">
   <diagram id="Lawi1tIbsT6B6tBGYx7M" name="Page-1">
     <mxGraphModel dx="900" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -92,6 +92,24 @@
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xuh5IIpC34kz-FPivGkV-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;Socket Parse Thread&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xuh5IIpC34kz-FPivGkV-31">
+          <mxGeometry y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xuh5IIpC34kz-FPivGkV-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="730" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xuh5IIpC34kz-FPivGkV-35" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#666666&quot;&gt;&lt;b&gt;Update GUI&lt;br&gt;&amp;nbsp;Thread Pool&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xuh5IIpC34kz-FPivGkV-34">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xuh5IIpC34kz-FPivGkV-36" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;Update GUI Thread&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xuh5IIpC34kz-FPivGkV-34">
+          <mxGeometry y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xuh5IIpC34kz-FPivGkV-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="760" y="720" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xuh5IIpC34kz-FPivGkV-38" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#666666&quot;&gt;&lt;b&gt;Database Task&lt;br&gt;&amp;nbsp;Thread Pool&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xuh5IIpC34kz-FPivGkV-37">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xuh5IIpC34kz-FPivGkV-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;Modify/Query Database Thread&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xuh5IIpC34kz-FPivGkV-37">
           <mxGeometry y="40" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
