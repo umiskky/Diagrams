@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T13:50:57.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" etag="GDitSeicocGKh-kum3A9" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T13:56:19.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" etag="JwA7PvmUQRw5ONtCHYnx" version="14.6.6" type="github">
   <diagram id="JCKB8MocDSN7x97dPDkK" name="Page-1">
     <mxGraphModel dx="1221" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -57,30 +57,6 @@
         </mxCell>
         <mxCell id="Dv_WCurl7W9lhUE-oqcY-9" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#666666&quot;&gt;Network Card Selector&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#81c784;strokeWidth=1;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-85">
           <mxGeometry x="10" y="350" width="550" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv_WCurl7W9lhUE-oqcY-91" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="900.83" y="430" width="430" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv_WCurl7W9lhUE-oqcY-88" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-91">
-          <mxGeometry width="430" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv_WCurl7W9lhUE-oqcY-89" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Log To Terminal&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e8f5e9;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-91">
-          <mxGeometry x="10" y="50" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv_WCurl7W9lhUE-oqcY-90" value="&lt;span style=&quot;color: rgb(102 , 102 , 102) ; font-size: 24px&quot;&gt;Log To File&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e8f5e9;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-91">
-          <mxGeometry x="230" y="50" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv_WCurl7W9lhUE-oqcY-92" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="430" width="570" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv_WCurl7W9lhUE-oqcY-86" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-92">
-          <mxGeometry width="570" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv_WCurl7W9lhUE-oqcY-36" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Read Database&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e8f5e9;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-92">
-          <mxGeometry x="10" y="50" width="260" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv_WCurl7W9lhUE-oqcY-37" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Write Database&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e8f5e9;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-92">
-          <mxGeometry x="300" y="50" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Dv_WCurl7W9lhUE-oqcY-94" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="300.83" y="300" width="1030" height="100" as="geometry" />
@@ -144,6 +120,30 @@
             <mxPoint x="1330.83" y="850" as="sourcePoint" />
             <mxPoint x="900" y="850" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv_WCurl7W9lhUE-oqcY-116" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="900" y="430" width="390" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv_WCurl7W9lhUE-oqcY-88" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-116">
+          <mxGeometry width="390" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv_WCurl7W9lhUE-oqcY-89" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Log To Terminal&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e8f5e9;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-116">
+          <mxGeometry x="10" y="50" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv_WCurl7W9lhUE-oqcY-90" value="&lt;span style=&quot;color: rgb(102 , 102 , 102) ; font-size: 24px&quot;&gt;Log To File&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e8f5e9;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-116">
+          <mxGeometry x="220" y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv_WCurl7W9lhUE-oqcY-117" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="430" width="510" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv_WCurl7W9lhUE-oqcY-86" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-117">
+          <mxGeometry width="510" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv_WCurl7W9lhUE-oqcY-36" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Read Database&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e8f5e9;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-117">
+          <mxGeometry x="10" y="50" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv_WCurl7W9lhUE-oqcY-37" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Write Database&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e8f5e9;" vertex="1" parent="Dv_WCurl7W9lhUE-oqcY-117">
+          <mxGeometry x="270" y="50" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
