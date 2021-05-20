@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T00:44:56.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="f5PpxxdGTzSCdfBInGqR" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T00:45:20.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="rA76ZhwoCaXlJLsObALd" version="14.6.13" type="github">
   <diagram id="qvrvdUsLyXw7kWjGBXnA" name="Page-1">
     <mxGraphModel dx="2076" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-77">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-77">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-82" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;在学生开始选课前，系统能够自动提醒老师设定选课要求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-77">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-83" value="" style="group;" vertex="1" connectable="0" parent="1">
