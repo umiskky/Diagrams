@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T00:40:39.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="3zGoU6a50MvSbJmvm3vZ" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T00:41:18.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="r-mFoTkgWp55bxlmMn35" version="14.6.13" type="github">
   <diagram id="qvrvdUsLyXw7kWjGBXnA" name="Page-1">
-    <mxGraphModel dx="1221" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,22 +134,22 @@
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-65" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2130" y="630" width="360" height="200" as="geometry" />
+          <mxGeometry x="2130" y="630" width="360" height="240" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-66" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;填报课程成绩，并生成成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
-          <mxGeometry width="120" height="55" as="geometry" />
+          <mxGeometry width="120" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
-          <mxGeometry y="55" width="120" height="145" as="geometry" />
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-67" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程成绩由平时成绩和考试成绩组成，老师能够分别填写这两个成绩，系统能够根据老师选择的成绩计算公式自动核算出总成绩。成绩提交后能够导出成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+          <mxGeometry y="66" width="120" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
-          <mxGeometry x="120" width="120" height="55" as="geometry" />
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-68" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;8/9/10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+          <mxGeometry x="120" width="120" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
-          <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-69" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;成绩录入可以通过导入&lt;span lang=&quot;EN-US&quot;&gt;excel&lt;/span&gt;表的方式完成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+          <mxGeometry x="120" y="66" width="120" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
-          <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-70" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;成绩录入不需要一次完成，可以暂存和自动保存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+          <mxGeometry x="240" y="66" width="120" height="174" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
