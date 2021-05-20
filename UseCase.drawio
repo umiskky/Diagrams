@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T00:53:11.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="SMI-FC8kDWocvmOmU3r6" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T00:53:50.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="iQXqxGvqovnnPb2xmzWD" version="14.6.13" type="github">
   <diagram id="qvrvdUsLyXw7kWjGBXnA" name="Page-1">
     <mxGraphModel dx="1483" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -325,19 +325,19 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-133" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3490" y="1520" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-134" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-134" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;审核课程成绩&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-135" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;教师提交课程成绩后，教务可以审核该成绩。注意，如果教师对已提交的成绩进行了勘误，新的成绩依然需要审核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-136" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-138" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-138" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够提醒教务有新的审核申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-139" value="" style="group;" vertex="1" connectable="0" parent="1">
