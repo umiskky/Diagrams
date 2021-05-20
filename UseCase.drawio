@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T00:28:52.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="6T3byrswTLlRDwSsyd5u" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T00:33:00.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="IbY3tgygRdrnM0ORB80L" version="14.6.13" type="github">
   <diagram id="qvrvdUsLyXw7kWjGBXnA" name="Page-1">
-    <mxGraphModel dx="1038" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-2" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="30" height="60" as="geometry" />
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-2" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="420" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-3" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="30" height="60" as="geometry" />
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-3" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="60" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-4" value="教务" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="560" width="30" height="60" as="geometry" />
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-4" value="教务" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="3390" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="280" y="50" width="360" height="120" as="geometry" />
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-2" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="10" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-6" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;通过该系统查询自己的课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gN51p7fk-sVV7GE8sbgh-11">
-          <mxGeometry width="120" height="60" as="geometry" />
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-6" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;通过该系统查询自己的课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
+          <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gN51p7fk-sVV7GE8sbgh-11">
-          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-7" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;以周历的形式展示出课表，以及每门课的上课时间、教室、周数&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;、任课教师&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
+          <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gN51p7fk-sVV7GE8sbgh-11">
-          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-8" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/7/8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
+          <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gN51p7fk-sVV7GE8sbgh-11">
-          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-9" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14.6667px ; text-align: left&quot;&gt;能够按照所选的周数展示课表，比如（但不限于）前八周、后八周，能够根据课程类别（比如必修课、公选课）展示课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
+          <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gN51p7fk-sVV7GE8sbgh-11">
-          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-10" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够根据课表，以邮件、短信、或微信的方式提醒学生每日上课的时间和地点。注意，这种提醒可以随时开启，也可以随时终止&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
+          <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
