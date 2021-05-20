@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T00:45:57.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="1QfWwpkEv8ofTKZ7uh-w" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T00:47:22.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="aOoGcasyWgEIXQdCP-04" version="14.6.13" type="github">
   <diagram id="qvrvdUsLyXw7kWjGBXnA" name="Page-1">
-    <mxGraphModel dx="2076" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,24 +205,6 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-83">
           <mxGeometry x="240" y="60.5" width="120" height="159.5" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-90" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2640" y="600" width="360" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-90">
-          <mxGeometry width="120" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-90">
-          <mxGeometry y="55" width="120" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-90">
-          <mxGeometry x="120" width="120" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-90">
-          <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-90">
-          <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
-        </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-96" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2640" y="920" width="360" height="200" as="geometry" />
         </mxCell>
@@ -258,6 +240,24 @@
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-103">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-110" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2640" y="600" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-91" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程的责任教师能够通过该系统在下学期教学准备阶段提交开课申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-110">
+          <mxGeometry width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-110">
+          <mxGeometry y="75" width="120" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-93" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-110">
+          <mxGeometry x="120" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-110">
+          <mxGeometry x="120" y="75" width="120" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-95" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够在线填写开课申请单。开课申请包括课程名称和&lt;span lang=&quot;EN-US&quot;&gt;ID&lt;/span&gt;、开课班级、划分的讲台、每个讲台对应的班级及授课教师，以及每个讲台的开课时间、地点和设备约束，具体应参考实际申请表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-110">
+          <mxGeometry x="240" y="75" width="120" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
