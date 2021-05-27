@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T01:02:36.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="Ie9Cr2QvyIy4rS-ASBns" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T00:45:25.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="S13G7x6w9Cmm3M-ZtQg6" version="14.7.1" type="github">
   <diagram id="qvrvdUsLyXw7kWjGBXnA" name="Page-1">
-    <mxGraphModel dx="6920" dy="3867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="980" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-33" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-33" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="490" y="690" width="640" height="680" as="geometry" />
         </mxCell>
         <mxCell id="gN51p7fk-sVV7GE8sbgh-2" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="j2GyUZiu2jQzD_m1YOnu-33" vertex="1">
           <mxGeometry y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-2" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-33">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-2" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-33" vertex="1" connectable="0">
           <mxGeometry x="280" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gN51p7fk-sVV7GE8sbgh-6" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询自己的课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
@@ -28,439 +28,439 @@
         <mxCell id="gN51p7fk-sVV7GE8sbgh-10" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够根据课表，以邮件、短信、或微信的方式提醒学生每日上课的时间和地点。注意，这种提醒可以随时开启，也可以随时终止&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-33" source="gN51p7fk-sVV7GE8sbgh-2" target="gN51p7fk-sVV7GE8sbgh-6">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-33" source="gN51p7fk-sVV7GE8sbgh-2" target="gN51p7fk-sVV7GE8sbgh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-5" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-33">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-5" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-33" vertex="1" connectable="0">
           <mxGeometry x="280" y="240" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-6" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;在学期开始前通过该系统选课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-5">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-6" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;在学期开始前通过该系统选课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-7" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;根据自身的年级和专业，列出本学期可选课程、查看课程信息、并提交选课申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-5">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-7" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;根据自身的年级和专业，列出本学期可选课程、查看课程信息、并提交选课申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-8" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/5/6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-5">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-8" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/5/6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-9" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统帮助学生自动选择必修课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-5">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-9" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统帮助学生自动选择必修课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-10" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程间的先修后修关系以及分数要求，提醒学生不可选择的课程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-5">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-10" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程间的先修后修关系以及分数要求，提醒学生不可选择的课程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-33" source="gN51p7fk-sVV7GE8sbgh-2" target="j2GyUZiu2jQzD_m1YOnu-6">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-33" source="gN51p7fk-sVV7GE8sbgh-2" target="j2GyUZiu2jQzD_m1YOnu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-11" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-33">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-11" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-33" vertex="1" connectable="0">
           <mxGeometry x="280" y="480" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-12" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询自己的成绩并生成成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-11">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-12" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询自己的成绩并生成成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-11" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-13" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;列出所有课程&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;（包含统计信息：如已修学分、应修学分等），&lt;span style=&quot;color: #333333&quot;&gt;显示最终成绩，并可导出成绩单&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-11">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-13" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;列出所有课程&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;（包含统计信息：如已修学分、应修学分等），&lt;span style=&quot;color: #333333&quot;&gt;显示最终成绩，并可导出成绩单&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-11" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-14" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-11">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-14" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-11" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-11">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-11" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-11">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-11" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-33" source="gN51p7fk-sVV7GE8sbgh-2" target="j2GyUZiu2jQzD_m1YOnu-12">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-33" source="gN51p7fk-sVV7GE8sbgh-2" target="j2GyUZiu2jQzD_m1YOnu-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-120" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-120" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="240" y="2944" width="1239" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="gN51p7fk-sVV7GE8sbgh-3" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1">
           <mxGeometry x="619" y="480" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-47" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-120">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-47" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1" connectable="0">
           <mxGeometry y="880" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-48" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;对已经提交的课程成绩进行勘误&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-47">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-48" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;对已经提交的课程成绩进行勘误&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-47" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-49" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;老师可以修改已经提交的课程成绩，每次修改都必须填写勘误理由。每次勘误行为会被系统记录。这些记录应当可以被任课教师和教务查看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-47">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-49" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;老师可以修改已经提交的课程成绩，每次修改都必须填写勘误理由。每次勘误行为会被系统记录。这些记录应当可以被任课教师和教务查看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-47" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-50" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-47">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-50" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-47" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-47">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-47" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-47">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-47" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-50">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-53" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-120">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-53" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1" connectable="0">
           <mxGeometry width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-54" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询自己的课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-53">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-54" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询自己的课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-55" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;以周历的形式展示出课表，以及每门课的上课时间、教室、周数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-53">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-55" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;以周历的形式展示出课表，以及每门课的上课时间、教室、周数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-56" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-53">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-56" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-53">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-58" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够根据课表，以邮件、短信、或微信的方式提醒学生每日上课的时间和地点。注意，这种提醒可以随时开启，也可以随时终止&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-53">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-58" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够根据课表，以邮件、短信、或微信的方式提醒学生每日上课的时间和地点。注意，这种提醒可以随时开启，也可以随时终止&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-56">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-59" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-120">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-59" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1" connectable="0">
           <mxGeometry y="280" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-60" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询选课名单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-59">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-60" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询选课名单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-61" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;列出所有选课学生的基本信息，包括学号、姓名、年级&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;班级、专业&lt;/span&gt;&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;、是否重修等信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-59">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-61" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;列出所有选课学生的基本信息，包括学号、姓名、年级&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;班级、专业&lt;/span&gt;&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;、是否重修等信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-62" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-59">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-62" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-59">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-59">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-62">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-65" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-120">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-65" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1" connectable="0">
           <mxGeometry y="560" width="360" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-66" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;填报课程成绩，并生成成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-66" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;填报课程成绩，并生成成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-65" vertex="1">
           <mxGeometry width="120" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-67" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程成绩由平时成绩和考试成绩组成，老师能够分别填写这两个成绩，系统能够根据老师选择的成绩计算公式自动核算出总成绩。成绩提交后能够导出成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-67" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程成绩由平时成绩和考试成绩组成，老师能够分别填写这两个成绩，系统能够根据老师选择的成绩计算公式自动核算出总成绩。成绩提交后能够导出成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-65" vertex="1">
           <mxGeometry y="66" width="120" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-68" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;8/9/10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-68" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;8/9/10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-65" vertex="1">
           <mxGeometry x="120" width="120" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-69" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;成绩录入可以通过导入&lt;span lang=&quot;EN-US&quot;&gt;excel&lt;/span&gt;表的方式完成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-69" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;成绩录入可以通过导入&lt;span lang=&quot;EN-US&quot;&gt;excel&lt;/span&gt;表的方式完成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-65" vertex="1">
           <mxGeometry x="120" y="66" width="120" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-70" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;成绩录入不需要一次完成，可以暂存和自动保存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-65">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-70" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;成绩录入不需要一次完成，可以暂存和自动保存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-65" vertex="1">
           <mxGeometry x="240" y="66" width="120" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-68">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-77" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-120">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-77" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1" connectable="0">
           <mxGeometry x="879" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-78" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;设定他所承担的课程的那个讲台的选课要求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-77">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-78" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;设定他所承担的课程的那个讲台的选课要求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-79" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;选课要求包括年级、专业、班级、先修课程及成绩，也可以设定不可选择该课程的年级、专业和班级&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-77">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-79" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;选课要求包括年级、专业、班级、先修课程及成绩，也可以设定不可选择该课程的年级、专业和班级&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-80" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-77">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-80" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-77">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-82" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;在学生开始选课前，系统能够自动提醒老师设定选课要求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-77">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-82" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;在学生开始选课前，系统能够自动提醒老师设定选课要求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-78">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-83" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-120">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-83" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1" connectable="0">
           <mxGeometry x="879" y="280" width="360" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-84" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;申请停课、调课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-83">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-84" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;申请停课、调课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-83" vertex="1">
           <mxGeometry width="120" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-85" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课申请包括：&lt;span lang=&quot;EN-US&quot;&gt;a) &lt;/span&gt;课程，&lt;span lang=&quot;EN-US&quot;&gt;b) &lt;/span&gt;申请停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课的原时间，&lt;span lang=&quot;EN-US&quot;&gt;c) &lt;/span&gt;申请调课的新时间，&lt;span lang=&quot;EN-US&quot;&gt;d) &lt;/span&gt;申请理由。提交停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课申请后，可以导出停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课申请单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-83">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-85" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课申请包括：&lt;span lang=&quot;EN-US&quot;&gt;a) &lt;/span&gt;课程，&lt;span lang=&quot;EN-US&quot;&gt;b) &lt;/span&gt;申请停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课的原时间，&lt;span lang=&quot;EN-US&quot;&gt;c) &lt;/span&gt;申请调课的新时间，&lt;span lang=&quot;EN-US&quot;&gt;d) &lt;/span&gt;申请理由。提交停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课申请后，可以导出停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课申请单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-83" vertex="1">
           <mxGeometry y="60.5" width="120" height="159.5" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-86" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-83">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-86" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-83" vertex="1">
           <mxGeometry x="120" width="120" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-83">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-83" vertex="1">
           <mxGeometry x="120" y="60.5" width="120" height="159.5" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-83">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-83" vertex="1">
           <mxGeometry x="240" y="60.5" width="120" height="159.5" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-84">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-96" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-120">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-96" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1" connectable="0">
           <mxGeometry x="879" y="920" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-97" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;填写成绩分析表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-96">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-97" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;填写成绩分析表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-96" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-96">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-96" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-99" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-96">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-99" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-96" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-96">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-96" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-101" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;成绩分析表需要自动生成一个表头，包含了课程成绩的分数统计。成绩分析表的具体形式应该参考实际分析表。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-96">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-101" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;成绩分析表需要自动生成一个表头，包含了课程成绩的分数统计。成绩分析表的具体形式应该参考实际分析表。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-96" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-97">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-111" value="" style="group" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-120">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-111" value="" style="group" parent="j2GyUZiu2jQzD_m1YOnu-120" vertex="1" connectable="0">
           <mxGeometry x="879" y="560" width="360" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-91" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程的责任教师能够通过该系统在下学期教学准备阶段提交开课申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-111">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-91" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程的责任教师能够通过该系统在下学期教学准备阶段提交开课申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-111" vertex="1">
           <mxGeometry width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-111">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-111" vertex="1">
           <mxGeometry y="75" width="120" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-93" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-111">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-93" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-111" vertex="1">
           <mxGeometry x="120" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-111">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-111" vertex="1">
           <mxGeometry x="120" y="75" width="120" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-95" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够在线填写开课申请单。开课申请包括课程名称和&lt;span lang=&quot;EN-US&quot;&gt;ID&lt;/span&gt;、开课班级、划分的讲台、每个讲台对应的班级及授课教师，以及每个讲台的开课时间、地点和设备约束，具体应参考实际申请表。&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;注意，课程的责任教师是在每次开课前由教务指定的&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-111">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-95" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够在线填写开课申请单。开课申请包括课程名称和&lt;span lang=&quot;EN-US&quot;&gt;ID&lt;/span&gt;、开课班级、划分的讲台、每个讲台对应的班级及授课教师，以及每个讲台的开课时间、地点和设备约束，具体应参考实际申请表。&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;注意，课程的责任教师是在每次开课前由教务指定的&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-111" vertex="1">
           <mxGeometry x="240" y="75" width="120" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-91">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-181" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-181" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="250" y="4960" width="1200" height="1450" as="geometry" />
         </mxCell>
         <mxCell id="gN51p7fk-sVV7GE8sbgh-4" value="教务" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1">
           <mxGeometry x="600" y="540" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-71" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-71" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry y="280" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-72" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询该学院里的每门课程的成绩&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-71">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-72" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询该学院里的每门课程的成绩&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-71" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-73" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;选择查看课程的全部讲台的成绩，也可以选择某个讲台进行查看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-71">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-73" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;选择查看课程的全部讲台的成绩，也可以选择某个讲台进行查看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-71" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-74" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-71">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-74" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-71" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-71">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-71" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-71">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-71" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-74">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-103" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-103" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry y="40" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-104" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;管理下发开课申请单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-103">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-104" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;管理下发开课申请单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-103" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-103">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-103" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-106" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-103">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-106" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-103" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-103">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-103" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-108" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;每次排课前，需要对每个课程指定一个责任教师，从而使得该老师可以填写申请单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-103">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-108" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;每次排课前，需要对每个课程指定一个责任教师，从而使得该老师可以填写申请单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-103" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-106">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-121" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-121" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry y="520" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-122" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查看每个学生成绩，并生成成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-121">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-122" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查看每个学生成绩，并生成成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-121" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-123" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;对于选定的学生（包括已毕业），列出所有课程，显示最终成绩，并可导出成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-121">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-123" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;对于选定的学生（包括已毕业），列出所有课程，显示最终成绩，并可导出成绩单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-121" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-124" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-121">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-124" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-121" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-121">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-121" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-121">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-121" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-124">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-127" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-127" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry y="760" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-128" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;学院教务设定系所负责人&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-127">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-128" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;学院教务设定系所负责人&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-127" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-129" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;将系所负责人的权限赋予一位老师&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-127">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-129" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-127" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-130" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-127">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-130" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;0/0/2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-127" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-127">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-127" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-132" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-127">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-132" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , sans-serif ; font-size: 14.6667px&quot;&gt;将系所负责人的权限赋予一位老师&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-127" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-130">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-133" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-133" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry y="1000" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-134" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;审核课程成绩&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-134" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;审核课程成绩&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-133" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-135" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;教师提交课程成绩后，教务可以审核该成绩。注意，如果教师对已提交的成绩进行了勘误，新的成绩依然需要审核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-135" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;教师提交课程成绩后，教务可以审核该成绩。注意，如果教师对已提交的成绩进行了勘误，新的成绩依然需要审核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-133" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-136" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-136" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-133" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-133" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-138" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够提醒教务有新的审核申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-133">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-138" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够提醒教务有新的审核申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-133" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-136">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-145" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-145" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry x="840" y="480" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-146" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;进行学院教务的工作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-145">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-146" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;进行学院教务的工作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-147" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;学院教务具备学院教务的权限，可以管理任意学院。注意，学校教务可以进行公共课的排课工作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-145">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-147" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;学院教务具备学院教务的权限，可以管理任意学院。注意，学校教务可以进行公共课的排课工作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-148" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;10/10/10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-145">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-148" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;10/10/10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-149" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-145">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-149" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-150" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-145">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-150" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-146">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-151" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-151" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry x="840" y="720" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-152" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;管理每个专业、每个年级的培养方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-151">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-152" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;管理每个专业、每个年级的培养方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-151" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-153" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;可以录入新的培养方案、微调已有的培养方案。注意，微调的含义是新增新的课程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-151">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-153" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;可以录入新的培养方案、微调已有的培养方案。注意，微调的含义是新增新的课程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-151" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-154" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-151">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-154" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-151" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-155" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-151">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-155" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-151" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-151">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-151" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-152">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-163" value="" style="group;" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-163" value="" style="group;" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry x="840" y="1250" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-164" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;审批停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-163">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-164" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;审批停&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;调课申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-163" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-165" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;教师提出的申请需由教务审批。注意，学院和学校教务都需要对申请进行审批，先由学院进行审批，再由学校进行审批&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-163">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-165" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;教师提出的申请需由教务审批。注意，学院和学校教务都需要对申请进行审批，先由学院进行审批，再由学校进行审批&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-163" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-166" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-163">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-166" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-163" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-167" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-163">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-167" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-163" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-168" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;根据审批进度，自动提醒教务需审批事项&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-163">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-168" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;根据审批进度，自动提醒教务需审批事项&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-163" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-164">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-169" value="" style="group" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-169" value="" style="group" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry x="840" width="360" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-140" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;排课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-169">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-140" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;排课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-141" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;每个课程的每个讲台安排一个上课时间和教室。注意&lt;span lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;，系统必须能够检查和提示上课时间、教室是否有冲突，冲突的情况包括待授课的班级在该时间已经有别的课、该教室在该时间已经被占用、该教室的容量不够、该教室的类型不符合需求等。注意&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;，课程安排可以是部分的，即可以只安排时间，不安排地点。注意&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;，学院教务只能排专业课和专选课，不能排公共课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-169">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-141" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;每个课程的每个讲台安排一个上课时间和教室。注意&lt;span lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;，系统必须能够检查和提示上课时间、教室是否有冲突，冲突的情况包括待授课的班级在该时间已经有别的课、该教室在该时间已经被占用、该教室的容量不够、该教室的类型不符合需求等。注意&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;，课程安排可以是部分的，即可以只安排时间，不安排地点。注意&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;，学院教务只能排专业课和专选课，不能排公共课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry y="55" width="120" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-142" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;10/12/20&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-169">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-142" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;10/12/20&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-143" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够列出无冲突的时间和教室&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-169">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-143" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够列出无冲突的时间和教室&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-144" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够根据教师填写的开课申请单自动进行排课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-169">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-144" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够根据教师填写的开课申请单自动进行排课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-140">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-170" value="" style="group" vertex="1" connectable="0" parent="j2GyUZiu2jQzD_m1YOnu-181">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-170" value="" style="group" parent="j2GyUZiu2jQzD_m1YOnu-181" vertex="1" connectable="0">
           <mxGeometry x="840" y="960" width="360" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-158" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;设定学生（专业）的培养方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-170">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-158" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;设定学生（专业）的培养方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-170" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-159" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;只有大一学生需要设定培养方案。培养方案的设定是以年级&lt;span lang=&quot;EN-US&quot;&gt;+&lt;/span&gt;专业为单位的。培养方案决定了每个专业每学期能够选修或必修的课程，也决定了教务在计划阶段需要安排的课程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-170">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-159" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;只有大一学生需要设定培养方案。培养方案的设定是以年级&lt;span lang=&quot;EN-US&quot;&gt;+&lt;/span&gt;专业为单位的。培养方案决定了每个专业每学期能够选修或必修的课程，也决定了教务在计划阶段需要安排的课程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-170" vertex="1">
           <mxGeometry y="55" width="120" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-160" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-170">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-160" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/4/5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-170" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-161" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-170">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-161" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-170" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-162" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;可以通过&lt;span lang=&quot;EN-US&quot;&gt;excel&lt;/span&gt;的方式导入培养方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="j2GyUZiu2jQzD_m1YOnu-170">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-162" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;可以通过&lt;span lang=&quot;EN-US&quot;&gt;excel&lt;/span&gt;的方式导入培养方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-170" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-158">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
