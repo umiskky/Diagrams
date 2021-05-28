@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T10:25:43.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="X7h4PNcXU8ffbNo0okPo" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T10:27:51.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="MuyF9DN5UYGPoXy8Nu9c" version="14.7.2" type="github">
   <diagram id="JaHIngfFHP9z-0MzOSH1" name="Page-1">
-    <mxGraphModel dx="874" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1498" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,19 +163,19 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-143" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-245">
           <mxGeometry x="60" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-146" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数&lt;br&gt;为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-245">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-146" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数&lt;br&gt;为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-245">
           <mxGeometry y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-245" source="HIaw6c_OQr-V_QlcpzKh-143" target="HIaw6c_OQr-V_QlcpzKh-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-148" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;根据操作数&lt;br&gt;执行闭包操作&lt;br&gt;构造NFA片段&lt;br&gt;Graph&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-245">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-148" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;根据操作数&lt;br&gt;执行闭包操作&lt;br&gt;构造NFA片段&lt;br&gt;Graph&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-245">
           <mxGeometry y="200" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-245" source="HIaw6c_OQr-V_QlcpzKh-146" target="HIaw6c_OQr-V_QlcpzKh-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-149" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;新构造的NFA片段入操作数栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.push(Graph)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-245">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-149" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;新构造的NFA片段入操作数栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.push(Graph)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-245">
           <mxGeometry y="360" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-245" source="HIaw6c_OQr-V_QlcpzKh-148" target="HIaw6c_OQr-V_QlcpzKh-149">
@@ -187,7 +187,7 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-245" source="HIaw6c_OQr-V_QlcpzKh-149" target="HIaw6c_OQr-V_QlcpzKh-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-246" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-246" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2090" y="1700" width="200" height="600" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-144" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-246">
@@ -198,19 +198,19 @@
             <mxPoint x="100" y="40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-219" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数1为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop()&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数2为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop()&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-246">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-219" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数1为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop()&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数2为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop()&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-246">
           <mxGeometry y="80" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-246" source="HIaw6c_OQr-V_QlcpzKh-144" target="HIaw6c_OQr-V_QlcpzKh-219">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-221" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;根据操作数&lt;br&gt;执行连接操作&lt;br&gt;构造NFA片段&lt;br&gt;Graph&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-246">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-221" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;根据操作数&lt;br&gt;执行连接操作&lt;br&gt;构造NFA片段&lt;br&gt;Graph&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-246">
           <mxGeometry x="20" y="240" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-246" source="HIaw6c_OQr-V_QlcpzKh-219" target="HIaw6c_OQr-V_QlcpzKh-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-223" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;新构造的NFA片段入操作数栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.push(Graph)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-246">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-223" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;新构造的NFA片段入操作数栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.push(Graph)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-246">
           <mxGeometry x="20" y="400" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-246" source="HIaw6c_OQr-V_QlcpzKh-221" target="HIaw6c_OQr-V_QlcpzKh-223">
@@ -238,16 +238,16 @@
             <mxPoint x="100" y="40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-232" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数1为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop()&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数2为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop()&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-247">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-232" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数1为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop()&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数2为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop()&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-247">
           <mxGeometry y="80" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-234" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;根据操作数&lt;br&gt;执行或操作&lt;br&gt;构造NFA片段&lt;br&gt;Graph&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-247">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-234" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;根据操作数&lt;br&gt;执行或操作&lt;br&gt;构造NFA片段&lt;br&gt;Graph&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-247">
           <mxGeometry x="20" y="240" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-247" source="HIaw6c_OQr-V_QlcpzKh-232" target="HIaw6c_OQr-V_QlcpzKh-234">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-236" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;新构造的NFA片段入操作数栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.push(Graph)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-247">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-236" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;新构造的NFA片段入操作数栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.push(Graph)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-247">
           <mxGeometry x="20" y="400" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-247" source="HIaw6c_OQr-V_QlcpzKh-234" target="HIaw6c_OQr-V_QlcpzKh-236">
@@ -262,7 +262,7 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-256" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2670.5" y="1700" width="160" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-249" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数栈出栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.pop&lt;br&gt;其结果即为构造完成的NFA&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-256">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-249" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数栈出栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.pop&lt;br&gt;其结果即为构造完成的NFA&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-256">
           <mxGeometry y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-256" source="HIaw6c_OQr-V_QlcpzKh-250" target="HIaw6c_OQr-V_QlcpzKh-249">
@@ -292,10 +292,10 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-262" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1760" y="40" width="280" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-115" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;输入正规式&lt;br&gt;regex&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-115" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;输入正规式&lt;br&gt;regex&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
           <mxGeometry y="120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-116" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;是否为合法正规式？&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-116" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;是否为合法正规式？&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
           <mxGeometry y="240" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-262" source="HIaw6c_OQr-V_QlcpzKh-115" target="HIaw6c_OQr-V_QlcpzKh-116">
@@ -307,25 +307,25 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-119" value="&lt;b style=&quot;font-size: 18px&quot;&gt;正规式转NFA程序开始&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
           <mxGeometry width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-121" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;初始化堆栈&lt;br&gt;操作数栈operandStack&lt;br&gt;符号栈&lt;br&gt;operatorStack&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-121" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;初始化堆栈&lt;br&gt;操作数栈operandStack&lt;br&gt;符号栈&lt;br&gt;operatorStack&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
           <mxGeometry y="400" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-262" source="HIaw6c_OQr-V_QlcpzKh-116" target="HIaw6c_OQr-V_QlcpzKh-121">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-122" value="&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack&lt;br&gt;.push(&#39;#&#39;)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-122" value="&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack&lt;br&gt;.push(&#39;#&#39;)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
           <mxGeometry y="560" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-262" source="HIaw6c_OQr-V_QlcpzKh-121" target="HIaw6c_OQr-V_QlcpzKh-122">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-124" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;regex += &#39;#&#39;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-124" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;regex += &#39;#&#39;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
           <mxGeometry y="680" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-262" source="HIaw6c_OQr-V_QlcpzKh-122" target="HIaw6c_OQr-V_QlcpzKh-124">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-127" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;i = 0&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-127" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;i = 0&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-262">
           <mxGeometry y="800" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-262" source="HIaw6c_OQr-V_QlcpzKh-124" target="HIaw6c_OQr-V_QlcpzKh-127">
@@ -358,22 +358,22 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-272" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2120" y="40" width="320" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-126" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;regex[i] != &#39;#&#39; ||&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;!= &#39;#&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-272">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-126" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;regex[i] != &#39;#&#39; ||&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;!= &#39;#&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-272">
           <mxGeometry y="80" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-128" value="&lt;b style=&quot;font-size: medium&quot;&gt;regex[i]为操作数？&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-272">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-128" value="&lt;b style=&quot;font-size: medium&quot;&gt;regex[i]为操作数？&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-272">
           <mxGeometry x="20" y="240" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-272" source="HIaw6c_OQr-V_QlcpzKh-126" target="HIaw6c_OQr-V_QlcpzKh-128">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-130" value="&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;.push(&lt;/b&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i]&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-272">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-130" value="&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;.push(&lt;/b&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i]&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-272">
           <mxGeometry x="20" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-272" source="HIaw6c_OQr-V_QlcpzKh-128" target="HIaw6c_OQr-V_QlcpzKh-130">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-131" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;i++&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-272">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-131" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;i++&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-272">
           <mxGeometry x="20" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-272" source="HIaw6c_OQr-V_QlcpzKh-130" target="HIaw6c_OQr-V_QlcpzKh-131">
@@ -418,16 +418,16 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-282" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2481" y="40" width="399" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-135" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;大于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-282">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-135" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;大于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-282">
           <mxGeometry y="80" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-136" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;为 &#39;*&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-282">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-136" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;为 &#39;*&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-282">
           <mxGeometry x="40" y="280" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-282" source="HIaw6c_OQr-V_QlcpzKh-135" target="HIaw6c_OQr-V_QlcpzKh-136">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-137" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;为 &#39;&amp;amp;&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-282">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-137" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;为 &#39;&amp;amp;&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-282">
           <mxGeometry x="40" y="440" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-282" source="HIaw6c_OQr-V_QlcpzKh-136" target="HIaw6c_OQr-V_QlcpzKh-137">
@@ -438,7 +438,7 @@
             <mxPoint x="140" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-138" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;为 &#39;|&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-282">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-138" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;为 &#39;|&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-282">
           <mxGeometry x="40" y="600" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-282" source="HIaw6c_OQr-V_QlcpzKh-137" target="HIaw6c_OQr-V_QlcpzKh-138">
@@ -504,7 +504,7 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-288" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2030" y="1020" width="400" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-183" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;等于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-288">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-183" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;等于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-288">
           <mxGeometry y="80" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-288" source="HIaw6c_OQr-V_QlcpzKh-185" target="HIaw6c_OQr-V_QlcpzKh-183">
@@ -513,13 +513,13 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-185" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-288">
           <mxGeometry x="120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-186" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈弹栈&lt;br&gt;operatorStack&lt;br&gt;.pop&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-288">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-186" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈弹栈&lt;br&gt;operatorStack&lt;br&gt;.pop&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-288">
           <mxGeometry x="60" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-288" source="HIaw6c_OQr-V_QlcpzKh-183" target="HIaw6c_OQr-V_QlcpzKh-186">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-187" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;i++&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-288">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-187" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;i++&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-288">
           <mxGeometry x="60" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-288" source="HIaw6c_OQr-V_QlcpzKh-186" target="HIaw6c_OQr-V_QlcpzKh-187">
@@ -543,10 +543,10 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-285" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;N&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-288">
           <mxGeometry x="300" y="138" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-291" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-291" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2600" y="1010" width="400" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-198" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;小于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-291">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-198" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;小于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-291">
           <mxGeometry y="80" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-291" source="HIaw6c_OQr-V_QlcpzKh-200" target="HIaw6c_OQr-V_QlcpzKh-198">
@@ -555,13 +555,13 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-200" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-291">
           <mxGeometry x="120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-202" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈入栈&lt;br&gt;operatorStack&lt;br&gt;.push(regex[i])&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-291">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-202" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈入栈&lt;br&gt;operatorStack&lt;br&gt;.push(regex[i])&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-291">
           <mxGeometry x="60" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-291" source="HIaw6c_OQr-V_QlcpzKh-198" target="HIaw6c_OQr-V_QlcpzKh-202">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-203" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;i++&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-291">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-203" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;i++&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HIaw6c_OQr-V_QlcpzKh-291">
           <mxGeometry x="60" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HIaw6c_OQr-V_QlcpzKh-291" source="HIaw6c_OQr-V_QlcpzKh-202" target="HIaw6c_OQr-V_QlcpzKh-203">
