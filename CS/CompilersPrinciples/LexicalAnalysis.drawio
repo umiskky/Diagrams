@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T09:45:37.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="Qfo-Yyxw_VNVH_E8rPJO" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T09:47:20.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="9wfKaTk_HFZB4__IWdGr" version="14.7.2" type="github">
   <diagram id="JaHIngfFHP9z-0MzOSH1" name="Page-1">
-    <mxGraphModel dx="848" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="599" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-135" target="HIaw6c_OQr-V_QlcpzKh-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-135" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;大于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-135" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;大于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2481" y="120" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-136" target="HIaw6c_OQr-V_QlcpzKh-137">
@@ -255,6 +255,11 @@
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-138" target="HIaw6c_OQr-V_QlcpzKh-142">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2621" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-138" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;为 &#39;|&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2521" y="640" width="200" height="120" as="geometry" />
@@ -320,7 +325,10 @@
           <mxGeometry x="1820" y="1600" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-179" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="2380" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-183" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;优先级&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;等于&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium&quot;&gt;regex[i] ?&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="120" width="280" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
