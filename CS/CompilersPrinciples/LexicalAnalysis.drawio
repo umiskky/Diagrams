@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T10:00:55.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="n-uSY01DIWWCTSFf8_kW" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T10:03:32.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="DypoyCYVzztxsIpsNTBQ" version="14.7.2" type="github">
   <diagram id="JaHIngfFHP9z-0MzOSH1" name="Page-1">
     <mxGraphModel dx="1018" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -202,6 +202,9 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-126" target="HIaw6c_OQr-V_QlcpzKh-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-126" target="HIaw6c_OQr-V_QlcpzKh-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-126" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;regex[i] != &#39;#&#39; ||&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;!= &#39;#&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2120" y="120" width="200" height="120" as="geometry" />
         </mxCell>
@@ -291,23 +294,23 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-145" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-146" target="HIaw6c_OQr-V_QlcpzKh-148">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-146" target="HIaw6c_OQr-V_QlcpzKh-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-146" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;操作数&lt;br&gt;为&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack.pop&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-148" target="HIaw6c_OQr-V_QlcpzKh-149">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-148" target="HIaw6c_OQr-V_QlcpzKh-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-148" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;根据操作数&lt;br&gt;构造NFA片段&lt;br&gt;Graph&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1320" width="160" height="80" as="geometry" />
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-148" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;根据操作数&lt;br&gt;执行闭包操作&lt;br&gt;构造NFA片段&lt;br&gt;Graph&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1320" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIaw6c_OQr-V_QlcpzKh-149" target="HIaw6c_OQr-V_QlcpzKh-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-149" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;新构造的NFA片段入操作数栈&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operandStack&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;.push(Graph)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1440" width="160" height="120" as="geometry" />
+          <mxGeometry x="1760" y="1480" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-156" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;0&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1820" y="960" width="40" height="40" as="geometry" />
@@ -328,7 +331,7 @@
           <mxGeometry x="2601" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-176" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;0&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1600" width="40" height="40" as="geometry" />
+          <mxGeometry x="1820" y="1640" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-179" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2380" y="320" width="40" height="40" as="geometry" />
@@ -396,17 +399,20 @@
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-204" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4200" y="180" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-205" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-205" value="0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3480" y="560" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-207" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-207" value="0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3960" y="560" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HIaw6c_OQr-V_QlcpzKh-209" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-209" value="0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2601" y="800" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-210" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2000" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-214" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="160" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
