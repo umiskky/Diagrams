@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T09:32:16.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="0_KuRLqjZ81B_36XwHjD" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T09:34:58.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="DbqSa8erXNwY0CO124V3" version="14.7.2" type="github">
   <diagram id="JaHIngfFHP9z-0MzOSH1" name="Page-1">
     <mxGraphModel dx="848" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="1760" y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-120" value="&lt;b style=&quot;font-size: 18px&quot;&gt;正规式转NFA程序结束&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2250" y="840" width="160" height="80" as="geometry" />
+          <mxGeometry x="2290" y="1220" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-121" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;初始化堆栈&lt;br&gt;操作数栈operandStack&lt;br&gt;符号栈&lt;br&gt;operatorStack&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="440" width="160" height="120" as="geometry" />
@@ -204,6 +204,15 @@
         </mxCell>
         <mxCell id="HIaw6c_OQr-V_QlcpzKh-138" value="&lt;b style=&quot;font-size: 18px&quot;&gt;符号栈&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;operatorStack.top&lt;br&gt;&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;为 &#39;|&#39; ?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2500" y="720" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-140" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-141" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HIaw6c_OQr-V_QlcpzKh-142" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="760" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
