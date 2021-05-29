@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T11:47:00.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="HFewfzWdqx73iU-f8HJg" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T11:54:45.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="iA77fGx9FR96yUUQ4930" version="14.7.3" type="github">
   <diagram id="0YPb2u13IoEKau1Qp7Te" name="Page-1">
     <mxGraphModel dx="748" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="Pd2eChNWipuQM7B-wFBg-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;分析产生式获取终结符与非终结符&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd2eChNWipuQM7B-wFBg-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;划分非终结符为可导出空串和不可导出空串&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
