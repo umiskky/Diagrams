@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T11:44:37.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="-sH6qwMiiUAHtn8-usHI" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T11:47:00.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="HFewfzWdqx73iU-f8HJg" version="14.7.3" type="github">
   <diagram id="0YPb2u13IoEKau1Qp7Te" name="Page-1">
     <mxGraphModel dx="748" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -6,6 +6,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Pd2eChNWipuQM7B-wFBg-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;主程序入口&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd2eChNWipuQM7B-wFBg-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;读入并重建产生式&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd2eChNWipuQM7B-wFBg-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;分析产生式获取终结符与非终结符&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
