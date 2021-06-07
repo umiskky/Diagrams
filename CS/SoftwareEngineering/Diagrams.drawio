@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T07:09:04.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="Yth9Tm8LFxwJsRpPfNjX" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T07:09:27.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="DN9AurGZUKxM_ZXBKmoH" version="14.7.5" type="github">
   <diagram id="W4C-Jvq1k3ci-ln_cuX9" name="Page-1">
     <mxGraphModel dx="1069" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -34,16 +34,14 @@
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-11" target="JdK_XvDdOjBWKNIHrTVb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-13" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot;&gt;指定&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JdK_XvDdOjBWKNIHrTVb-12">
-          <mxGeometry x="-0.2319" y="1" relative="1" as="geometry">
-            <mxPoint x="-21" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-11" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;学校教务&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-17" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot;&gt;注册&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-18" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot;&gt;指定&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
