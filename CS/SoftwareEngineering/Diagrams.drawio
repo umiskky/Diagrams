@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T13:34:44.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="VYRzcGstRVqwVMptV95-" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T14:00:40.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="f5WiNibh3quKiY1jzz6H" version="14.7.5" type="github">
   <diagram id="W4C-Jvq1k3ci-ln_cuX9" name="Page-1">
     <mxGraphModel dx="748" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
@@ -419,20 +419,50 @@
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-158" value="培养计划索引表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1680" y="680" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1720.2758620689656" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-159" value="开课单表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1680" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800.2758620689656" y="820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-160" value="计划讲台表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1760" y="760" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1880.2758620689656" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-161" value="讲台表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1840" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1720.2758620689656" y="900" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-162" value="学生课程表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1680" y="840" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-164">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1880.2758620689656" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-164" value="讲台成绩表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1840" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1720.2758620689656" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-165" value="调课停课表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1680" y="920" width="80" height="40" as="geometry" />
@@ -541,8 +571,18 @@
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-180" value="角色-权限表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1560" y="760" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800.2758620689656" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-181" value="讲台成绩索引表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1760" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdK_XvDdOjBWKNIHrTVb-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1960.2758620689656" y="820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-182" value="讲台时间地点表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1920" y="760" width="80" height="40" as="geometry" />
