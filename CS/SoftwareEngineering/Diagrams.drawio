@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T02:40:10.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="dWw5fxvYVhJ2--ds_0OE" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T07:03:10.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="g5fYAP-BK-PZYzGoeF4g" version="14.7.5" type="github">
   <diagram id="W4C-Jvq1k3ci-ln_cuX9" name="Page-1">
-    <mxGraphModel dx="620" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="748" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,77 +363,80 @@
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-146" value="消息表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="JdK_XvDdOjBWKNIHrTVb-151">
           <mxGeometry y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-152" value="教师表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-152" value="教师表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1440" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-153" value="学校教务员表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-153" value="学校教务员表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1280" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-154" value="学院教务表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-154" value="学院教务表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1360" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-155" value="学生表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-155" value="学生表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1520" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-156" value="课程表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="640" width="80" height="40" as="geometry" />
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-156" value="课程表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-157" value="培养计划表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1760" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-158" value="培养计划索引表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="640" width="80" height="40" as="geometry" />
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-158" value="培养计划索引表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-159" value="开课单表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="640" width="80" height="40" as="geometry" />
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-159" value="开课单表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-160" value="计划讲台表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-160" value="计划讲台表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-161" value="讲台表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-161" value="讲台表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-162" value="学生课程表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="680" width="80" height="40" as="geometry" />
+          <mxGeometry x="1680" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-163" value="讲台预成绩表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="680" width="80" height="40" as="geometry" />
+          <mxGeometry x="1760" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-164" value="讲台成绩表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="1840" y="840" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-165" value="调课停课表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="720" width="80" height="40" as="geometry" />
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-165" value="调课停课表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JdK_XvDdOjBWKNIHrTVb-166" value="消息表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="1680" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-167" value="控制表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="720" width="80" height="40" as="geometry" />
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-167" value="用户控制表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-168" value="学院表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-168" value="学院表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-169" value="专业表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-170" value="班级表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-171" value="建筑表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-172" value="教室表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-173" value="用户表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1280" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-169" value="专业表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-174" value="角色表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1360" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-170" value="班级表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-176" value="权限表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1440" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-171" value="建筑表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="760" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-172" value="教室表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="800" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-173" value="用户表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="800" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-174" value="角色表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="800" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JdK_XvDdOjBWKNIHrTVb-176" value="权限表" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="800" width="80" height="40" as="geometry" />
+        <mxCell id="JdK_XvDdOjBWKNIHrTVb-178" value="系统控制表" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="920" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
