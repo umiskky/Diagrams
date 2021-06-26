@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T02:02:02.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="fN-S9FYCmRV9VI-nRSkD" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T00:58:17.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="YT6pHYEASGgiHunRnxHR" version="14.8.0" type="github">
   <diagram id="qvrvdUsLyXw7kWjGBXnA" name="Page-1">
-    <mxGraphModel dx="980" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="529" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,13 +16,13 @@
         <mxCell id="gN51p7fk-sVV7GE8sbgh-6" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询自己的课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-7" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;以周历的形式展示出课表，以及每门课的上课时间、教室、周数&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;、任课教师&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-7" value="&lt;font color=&quot;#ff0080&quot;&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;以周历的形式展示出课表，以及每门课的上课时间、教室、周数&lt;/span&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;、任课教师&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="gN51p7fk-sVV7GE8sbgh-8" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/7/8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="gN51p7fk-sVV7GE8sbgh-9" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14.6667px ; text-align: left&quot;&gt;能够按照所选的周数展示课表，比如（但不限于）前八周、后八周，能够根据课程类别（比如必修课、公选课）展示课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
+        <mxCell id="gN51p7fk-sVV7GE8sbgh-9" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14.6667px ; text-align: left&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;能够按照所选的周数展示课表，比如（但不限于）前八周、后八周，能够根据课程类别（比如必修课、公选课）展示课表&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="gN51p7fk-sVV7GE8sbgh-10" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够根据课表，以邮件、短信、或微信的方式提醒学生每日上课的时间和地点。注意，这种提醒可以随时开启，也可以随时终止&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-2" vertex="1">
@@ -37,13 +37,13 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-6" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;在学期开始前通过该系统选课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-7" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;根据自身的年级和专业，列出本学期可选课程、查看课程信息、并提交选课申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-7" value="&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;根据自身的年级和专业，列出本学期可选课程、查看课程信息、并提交选课申请&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-8" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;4/5/6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-9" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统帮助学生自动选择必修课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-9" value="&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;系统帮助学生自动选择必修课&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-10" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;课程间的先修后修关系以及分数要求，提醒学生不可选择的课程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-5" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-54" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询自己的课表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-55" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;以周历的形式展示出课表，以及每门课的上课时间、教室、周数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-55" value="&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;以周历的形式展示出课表，以及每门课的上课时间、教室、周数&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-56" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-53" vertex="1">
@@ -127,7 +127,7 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-60" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;查询选课名单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-61" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;列出所有选课学生的基本信息，包括学号、姓名、年级&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;班级、专业&lt;/span&gt;&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;、是否重修等信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-61" value="&lt;font color=&quot;#ff0080&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;列出所有选课学生的基本信息，包括学号、姓名、年级&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;班级、专业&lt;/span&gt;&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;、是否重修等信息&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-62" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;3/3/3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-59" vertex="1">
@@ -169,7 +169,7 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-78" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;设定他所承担的课程的那个讲台的选课要求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-79" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;选课要求包括年级、专业、班级、先修课程及成绩，也可以设定不可选择该课程的年级、专业和班级&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-79" value="&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;选课要求包括年级、专业、班级、先修课程及成绩，也可以设定不可选择该课程的年级、专业和班级&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-80" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;5/5/6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-77" vertex="1">
@@ -241,7 +241,7 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-111" vertex="1">
           <mxGeometry x="120" y="75" width="120" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-95" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;能够在线填写开课申请单。开课申请包括课程名称和&lt;span lang=&quot;EN-US&quot;&gt;ID&lt;/span&gt;、开课班级、划分的讲台、每个讲台对应的班级及授课教师，以及每个讲台的开课时间、地点和设备约束，具体应参考实际申请表。&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;注意，课程的责任教师是在每次开课前由教务指定的&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-111" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-95" value="&lt;font color=&quot;#ff0080&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;能够在线填写开课申请单。开课申请包括课程名称和&lt;span lang=&quot;EN-US&quot;&gt;ID&lt;/span&gt;、开课班级、划分的讲台、每个讲台对应的班级及授课教师，以及每个讲台的开课时间、地点和设备约束，具体应参考实际申请表。&lt;/span&gt;&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;注意，课程的责任教师是在每次开课前由教务指定的&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-111" vertex="1">
           <mxGeometry x="240" y="75" width="120" height="245" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-120" source="gN51p7fk-sVV7GE8sbgh-3" target="j2GyUZiu2jQzD_m1YOnu-91" edge="1">
@@ -289,7 +289,7 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-103" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-108" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;每次排课前，需要对每个课程指定一个责任教师，从而使得该老师可以填写申请单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-103" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-108" value="&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;每次排课前，需要对每个课程指定一个责任教师，从而使得该老师可以填写申请单&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-103" vertex="1">
           <mxGeometry x="240" y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="j2GyUZiu2jQzD_m1YOnu-181" source="gN51p7fk-sVV7GE8sbgh-4" target="j2GyUZiu2jQzD_m1YOnu-106" edge="1">
@@ -364,7 +364,7 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-146" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;进行学院教务的工作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-147" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;学院教务具备学院教务的权限，可以管理任意学院。注意，学校教务可以进行公共课的排课工作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-147" value="&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;学院教务具备学院教务的权限，可以管理任意学院。注意，学校教务可以进行公共课的排课工作&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
           <mxGeometry y="55" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-148" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;10/10/10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-145" vertex="1">
@@ -427,13 +427,13 @@
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-140" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;排课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-141" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;每个课程的每个讲台安排一个上课时间和教室。注意&lt;span lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;，系统必须能够检查和提示上课时间、教室是否有冲突，冲突的情况包括待授课的班级在该时间已经有别的课、该教室在该时间已经被占用、该教室的容量不够、该教室的类型不符合需求等。注意&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;，课程安排可以是部分的，即可以只安排时间，不安排地点。注意&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;，学院教务只能排专业课和专选课，不能排公共课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-141" value="&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;每个课程的每个讲台安排一个上课时间和教室。注意&lt;span lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;，系统必须能够检查和提示上课时间、教室是否有冲突，冲突的情况包括待授课的班级在该时间已经有别的课、该教室在该时间已经被占用、该教室的容量不够、该教室的类型不符合需求等。注意&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;，课程安排可以是部分的，即可以只安排时间，不安排地点。注意&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;，学院教务只能排专业课和专选课，不能排公共课&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry y="55" width="120" height="385" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-142" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;10/12/20&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry x="120" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="j2GyUZiu2jQzD_m1YOnu-143" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够列出无冲突的时间和教室&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
+        <mxCell id="j2GyUZiu2jQzD_m1YOnu-143" value="&lt;span style=&quot;font-size: 11pt ; font-family: , sans-serif&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;系统能够列出无冲突的时间和教室&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="385" as="geometry" />
         </mxCell>
         <mxCell id="j2GyUZiu2jQzD_m1YOnu-144" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #333333&quot;&gt;系统能够根据教师填写的开课申请单自动进行排课&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="j2GyUZiu2jQzD_m1YOnu-169" vertex="1">
