@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T06:48:20.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="RycHOSPEI2K8I4P596Nn" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T07:00:57.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="ioHYo_862xiDo7_msV-O" version="14.8.5" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
-    <mxGraphModel dx="834" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,6 +106,48 @@
         </mxCell>
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Link(ServerIP)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2320" y="480" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-51" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_ClientSend(Client, buffer)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="520" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-52" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Receive(Client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="560" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-53" target="CU8P0Gv6PGfmMF4jzdn7-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-53" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.Instance.OnClientConnecte(data)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="600" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="640" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-55" target="CU8P0Gv6PGfmMF4jzdn7-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-55" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsAgreement(data)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="600" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-56" target="CU8P0Gv6PGfmMF4jzdn7-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-56" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Connecte(data)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="640" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-57" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client.MindviewServerKey ==&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;Key&quot;] ？&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="600" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-60" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.Number&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;==&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(int)data[&quot;Number&quot;]&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;？&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="680" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-61" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.NumberKey&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;==&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;VRKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;？&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="720" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-62" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.EyeAccessKey&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;EyeAccessKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="760" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-63" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.EyeAccessSecret&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;EyeAccessSecret&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="800" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
