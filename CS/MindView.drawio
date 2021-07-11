@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T06:37:14.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="Ezcgv84OBoMBQFbLlCJV" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T06:42:53.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="KMyPSlQC4EMm5Y8ISNvA" version="14.8.5" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
-    <mxGraphModel dx="691" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,11 +85,8 @@
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-42" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1880" y="440" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-43" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;ClientCommunication client = &lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.GetClient()&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="400" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-46" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="440" width="400" height="40" as="geometry" />
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-43" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsConnect = false&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="400" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
