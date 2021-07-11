@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T07:22:52.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="xTo7Sn8qDd9MATahBo1Q" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T07:25:42.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="8l9gNJu9zpLtlrjRcBOc" version="14.8.5" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
-    <mxGraphModel dx="1422" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,7 +161,7 @@
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-68" target="CU8P0Gv6PGfmMF4jzdn7-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-68" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication conn = new ClientCommunication(_client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-68" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication conn = new ClientCommunication(_client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2760" y="960" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-69" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Client&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -169,6 +169,15 @@
         </mxCell>
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-70" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsConnect = true&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3280" y="1000" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-73" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;conn.HandleReceive += FuncClient.Instance.OnHandleReceive&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1000" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-74" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;conn.OnStart()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1040" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-75" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.Client = conn&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1080" width="440" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
