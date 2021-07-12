@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T01:08:52.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="k-UJZ1Cp-uC5QkOi9jTG" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T01:13:15.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="gYpvHhFADaDsAg1xSMtG" version="14.8.5" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
     <mxGraphModel dx="1422" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -24,6 +24,14 @@
         </mxCell>
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;HomeFunc.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Initialization()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-13" target="CU8P0Gv6PGfmMF4jzdn7-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="130" />
+              <mxPoint x="960" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-13" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncStatus =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncType.Home&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncRunTime =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;RunTimeType.Initial&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncRunTimeKey =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncTag =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;IsInitialization =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;true&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
           <mxGeometry x="1000" y="40" width="360" height="120" as="geometry" />
@@ -218,6 +226,12 @@
         </mxCell>
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-87" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFuncRuning()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="1440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-88" value="&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncRunTimeKey =&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;0&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="360" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-92" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_HomeFuncInitial()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="240" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
