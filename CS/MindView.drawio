@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T07:33:54.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="nSxTV6ewwYOeC2Cx3vEv" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T01:01:36.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="LObpuD3QSeZ8qbm58XSJ" version="14.8.5" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
-    <mxGraphModel dx="1209" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,6 +206,9 @@
         </mxCell>
         <mxCell id="CU8P0Gv6PGfmMF4jzdn7-80" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HandleReceive(type, buffer.Skip(AGRHeadSize).ToArray())&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3720" y="1120" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-84" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Update()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
