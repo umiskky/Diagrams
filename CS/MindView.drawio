@@ -1,278 +1,281 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T01:54:08.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="_yoQ48pDR3ETISoktCMb" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T06:16:01.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="Ur0Xi9LV0IL-zCO3FHIi" version="14.8.6" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
-    <mxGraphModel dx="1108" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2260" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-3" target="CU8P0Gv6PGfmMF4jzdn7-4">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-84" target="CU8P0Gv6PGfmMF4jzdn7-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-3" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.Start()&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-10" target="CU8P0Gv6PGfmMF4jzdn7-13">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-84" target="CU8P0Gv6PGfmMF4jzdn7-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Initialization()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-6" target="CU8P0Gv6PGfmMF4jzdn7-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-4" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.IsInitialization = true&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;HomeFunc.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Initialization()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-13" target="CU8P0Gv6PGfmMF4jzdn7-88">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="960" y="130" />
-              <mxPoint x="960" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-13" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncStatus =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncType.Home&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncRunTime =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;RunTimeType.Initial&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncRunTimeKey =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncTag =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;IsInitialization =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;true&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="40" width="360" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-14" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;HomeFunc.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HidekeyboardRayLine()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="640" y="120" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-20" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;延时&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="60" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-22" target="CU8P0Gv6PGfmMF4jzdn7-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-22" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;CreateSubstance()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="160" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-23" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Status = Result.Success&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="200" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#66ccff;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-24" target="CU8P0Gv6PGfmMF4jzdn7-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-24" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.Instance.OnStart()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="240" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-25" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;NetworkTimeStamp = DateTime.Now&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="280" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-26" target="CU8P0Gv6PGfmMF4jzdn7-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-26" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client.Create(data)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="200" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-28" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;data =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;JsonMapper.ToObject(&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;substance.json&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="160" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-30" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ServerIP =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;ServerIP&quot;]&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ServerPort = (int)data[&quot;ServerPort&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MindviewServerKey = (string)data[&quot;MindviewServerKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Number = (int)data[&quot;Number&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;NumberKey = (string)data[&quot;NumberKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomePageName = (string)data[&quot;HomePageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;CalibrationPageName = (string)data[&quot;CalibrationPageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TestingPageName = (string)data[&quot;TestingPageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IntervenePageName = (string)data[&quot;IntervenePageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HappyPageName = (string)data[&quot;HappyPageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientTimeout = (int)data[&quot;ClientTimeout&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="120" width="520" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-33" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsRuning = true&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="360" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-38" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;新线程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="340" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeColor=#66CCFF;dashed=1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-39" target="CU8P0Gv6PGfmMF4jzdn7-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-39" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Start()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="400" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-40" target="CU8P0Gv6PGfmMF4jzdn7-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-40" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_MonitorClient()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="400" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-42" target="CU8P0Gv6PGfmMF4jzdn7-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-42" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_OnLink()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="440" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-43" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsConnect = false&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="400" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;dashPattern=1 1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-47" target="CU8P0Gv6PGfmMF4jzdn7-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2060" y="540" />
-              <mxPoint x="1840" y="540" />
-              <mxPoint x="1840" y="380" />
-              <mxPoint x="2060" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-47" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&amp;nbsp;Thread.Sleep(1000)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="480" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Link(ServerIP)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="480" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-51" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_ClientSend(Client, buffer)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="520" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-52" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Receive(Client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="560" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-53" target="CU8P0Gv6PGfmMF4jzdn7-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-53" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.Instance.OnClientConnecte(data)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="600" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-54" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsConnect = true&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="640" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-55" target="CU8P0Gv6PGfmMF4jzdn7-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-55" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsAgreement(data)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="600" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-56" target="CU8P0Gv6PGfmMF4jzdn7-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-56" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Connecte(data)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="640" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-57" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client.MindviewServerKey ==&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;Key&quot;] ？&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="600" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-60" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.Number&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;==&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(int)data[&quot;Number&quot;]&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;？&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="680" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-61" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.NumberKey&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;==&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;VRKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;？&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="720" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-62" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.EyeAccessKey&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;EyeAccessKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="760" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-63" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.EyeAccessSecret&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;EyeAccessSecret&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="800" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-66" target="CU8P0Gv6PGfmMF4jzdn7-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3160" y="880" />
-              <mxPoint x="3160" y="980" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-66" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;IsInitialization =&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;false&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncRunTime =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot; style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;RunTimeType.Complete&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Status =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Result.Success&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncRunTimeKey =&lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;3&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="840" width="560" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-67" target="CU8P0Gv6PGfmMF4jzdn7-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-67" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;SetClient(Client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="680" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-68" target="CU8P0Gv6PGfmMF4jzdn7-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-68" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication conn = new ClientCommunication(_client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="1040" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-69" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Client&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="1040" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-70" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsConnect = true&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="1080" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-73" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;conn.HandleReceive += FuncClient.Instance.OnHandleReceive&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="1080" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#97D077;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-74" target="CU8P0Gv6PGfmMF4jzdn7-76">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-74" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;conn.OnStart()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="1120" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-75" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.Client = conn&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="1160" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeColor=#97D077;dashed=1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-76" target="CU8P0Gv6PGfmMF4jzdn7-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-76" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Communication()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="1160" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-78" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;新线程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="1140" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-79" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Receive()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3720" y="1160" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#97D077;dashPattern=1 1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-80" target="CU8P0Gv6PGfmMF4jzdn7-79">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4000" y="1260" />
-              <mxPoint x="3680" y="1260" />
-              <mxPoint x="3680" y="1140" />
-              <mxPoint x="4000" y="1140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-80" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HandleReceive(type, buffer.Skip(AGRHeadSize).ToArray())&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3720" y="1200" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-84" target="CU8P0Gv6PGfmMF4jzdn7-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-84" target="CU8P0Gv6PGfmMF4jzdn7-98">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-84" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Update()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-84" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Update()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="1400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-85" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;OnClientStatus()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-85" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;OnClientStatus()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="1400" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-87" target="CU8P0Gv6PGfmMF4jzdn7-93">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-87" target="CU8P0Gv6PGfmMF4jzdn7-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-87" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFuncRuning()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-87" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFuncRuning()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="1440" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-88" value="&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncRunTimeKey =&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;0&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="360" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-92" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_HomeFuncInitial()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="240" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-93" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_HomeFuncComplete&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;()&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-93" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_HomeFuncComplete&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;()&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="1440" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-95" value="&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncRunTimeKey =&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;0&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="960" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-97" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_HomeFuncComplete&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3000" y="920" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-98" target="CU8P0Gv6PGfmMF4jzdn7-100">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-98" target="CU8P0Gv6PGfmMF4jzdn7-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-98" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;LateUpdate&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;()&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-98" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;LateUpdate&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;()&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry y="1600" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-100" target="CU8P0Gv6PGfmMF4jzdn7-102">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" parent="1" source="CU8P0Gv6PGfmMF4jzdn7-100" target="CU8P0Gv6PGfmMF4jzdn7-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-100" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;PostClientStatus()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-100" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;PostClientStatus()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="1600" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-102" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.OnClientStatus()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-102" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.OnClientStatus()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="600" y="1600" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-104" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;发送客户端状态信息（不确定性）&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-104" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;发送客户端状态信息（不确定性）&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="1580" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KCp1kmRyOBkIG9y3nNtY-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="4240" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-3" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.Start()&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Initialization()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="600" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-6" target="CU8P0Gv6PGfmMF4jzdn7-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-4" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeFunc.IsInitialization = true&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="240" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-3" target="CU8P0Gv6PGfmMF4jzdn7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;HomeFunc.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Initialization()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="240" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-13" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncStatus =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncType.Home&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncRunTime =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;RunTimeType.Initial&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncRunTimeKey =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncTag =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;IsInitialization =&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;b&gt;true&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="960" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-10" target="CU8P0Gv6PGfmMF4jzdn7-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-14" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;HomeFunc.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HidekeyboardRayLine()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="600" y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-20" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;延时&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="600" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-22" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;CreateSubstance()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="960" y="120" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-23" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Status = Result.Success&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="960" y="160" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-24" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.Instance.OnStart()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="960" y="200" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-25" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;NetworkTimeStamp = DateTime.Now&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="960" y="240" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-26" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client.Create(data)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1400" y="160" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-28" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;data =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;JsonMapper.ToObject(&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;substance.json&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1400" y="120" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-22" target="CU8P0Gv6PGfmMF4jzdn7-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-30" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ServerIP =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;ServerIP&quot;]&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ServerPort = (int)data[&quot;ServerPort&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MindviewServerKey = (string)data[&quot;MindviewServerKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Number = (int)data[&quot;Number&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;NumberKey = (string)data[&quot;NumberKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomePageName = (string)data[&quot;HomePageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;CalibrationPageName = (string)data[&quot;CalibrationPageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TestingPageName = (string)data[&quot;TestingPageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IntervenePageName = (string)data[&quot;IntervenePageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HappyPageName = (string)data[&quot;HappyPageName&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Substance.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientTimeout = (int)data[&quot;ClientTimeout&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1840" y="80" width="520" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-26" target="CU8P0Gv6PGfmMF4jzdn7-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-33" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsRuning = true&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1400" y="320" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#66ccff;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-24" target="CU8P0Gv6PGfmMF4jzdn7-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-38" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;新线程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1400" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-39" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Start()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1400" y="360" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-40" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_MonitorClient()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1840" y="360" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeColor=#66CCFF;dashed=1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-39" target="CU8P0Gv6PGfmMF4jzdn7-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-42" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_OnLink()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1840" y="400" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-43" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsConnect = false&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2280" y="360" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-40" target="CU8P0Gv6PGfmMF4jzdn7-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;dashPattern=1 1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-47" target="CU8P0Gv6PGfmMF4jzdn7-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2020" y="500" />
+              <mxPoint x="1800" y="500" />
+              <mxPoint x="1800" y="340" />
+              <mxPoint x="2020" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-47" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&amp;nbsp;Thread.Sleep(1000)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="1840" y="440" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Link(ServerIP)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2280" y="440" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-42" target="CU8P0Gv6PGfmMF4jzdn7-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-51" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_ClientSend(Client, buffer)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2280" y="480" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-52" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Receive(Client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2280" y="520" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-53" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.Instance.OnClientConnecte(data)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2280" y="560" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-54" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsConnect = true&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2280" y="600" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-55" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsAgreement(data)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2720" y="560" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-53" target="CU8P0Gv6PGfmMF4jzdn7-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-56" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Connecte(data)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2720" y="600" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-57" value="&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client.MindviewServerKey ==&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;Key&quot;] ？&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3160" y="560" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-55" target="CU8P0Gv6PGfmMF4jzdn7-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-60" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.Number&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;==&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(int)data[&quot;Number&quot;]&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;？&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3160" y="640" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-56" target="CU8P0Gv6PGfmMF4jzdn7-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-61" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.NumberKey&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;==&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;VRKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;？&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3160" y="680" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-62" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.EyeAccessKey&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;EyeAccessKey&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3160" y="720" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-63" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Instance.Client.EyeAccessSecret&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(string)data[&quot;EyeAccessSecret&quot;]&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3160" y="760" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-66" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;IsInitialization =&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;false&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;FuncRunTime =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot; style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;RunTimeType.Complete&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.Status =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Result.Success&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncClient.&lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;FuncRunTimeKey =&lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;3&lt;/b&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3160" y="800" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-67" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;Communication.&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;SetClient(Client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2280" y="640" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-68" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication conn = new ClientCommunication(_client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2720" y="1000" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-67" target="CU8P0Gv6PGfmMF4jzdn7-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-69" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client =&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Client&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3240" y="1000" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#66CCFF;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-68" target="CU8P0Gv6PGfmMF4jzdn7-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-70" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsConnect = true&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3240" y="1040" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-73" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;conn.HandleReceive += FuncClient.Instance.OnHandleReceive&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2720" y="1040" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-74" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;conn.OnStart()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2720" y="1080" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-75" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Communication&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.Client = conn&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2720" y="1120" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-76" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Communication()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3240" y="1120" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#97D077;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-74" target="CU8P0Gv6PGfmMF4jzdn7-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-78" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;新线程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3240" y="1100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-79" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_Receive()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3680" y="1120" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeColor=#97D077;dashed=1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-76" target="CU8P0Gv6PGfmMF4jzdn7-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#97D077;dashPattern=1 1;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-80" target="CU8P0Gv6PGfmMF4jzdn7-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3960" y="1220" />
+              <mxPoint x="3640" y="1220" />
+              <mxPoint x="3640" y="1100" />
+              <mxPoint x="3960" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-80" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ClientCommunication.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HandleReceive(type, buffer.Skip(AGRHeadSize).ToArray())&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3680" y="1160" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-88" value="&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncRunTimeKey =&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;0&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="960" y="320" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-13" target="CU8P0Gv6PGfmMF4jzdn7-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="90" />
+              <mxPoint x="920" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-92" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_HomeFuncInitial()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="780" y="200" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-95" value="&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncClient.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;b&gt;FuncRunTimeKey =&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;0&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="3160" y="920" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" parent="KCp1kmRyOBkIG9y3nNtY-1" source="CU8P0Gv6PGfmMF4jzdn7-66" target="CU8P0Gv6PGfmMF4jzdn7-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3120" y="840" />
+              <mxPoint x="3120" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CU8P0Gv6PGfmMF4jzdn7-97" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_HomeFuncComplete&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KCp1kmRyOBkIG9y3nNtY-1" vertex="1">
+          <mxGeometry x="2960" y="880" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
