@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T01:21:36.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="EOG9OYHep9pMacEmh0nH" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T01:23:02.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="qmGQ0eGgIaotijbupoZm" version="14.8.6" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
     <mxGraphModel dx="474" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -505,11 +505,17 @@
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-78" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MindviewServer.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Status = Result.Success&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4840" y="4560" width="400" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#F19C99;" edge="1" parent="1" source="bEM4ZgG6ULs1wLHOd_lt-79" target="bEM4ZgG6ULs1wLHOd_lt-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-79" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TaskServer.Instance.LongStart(this._Start)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4840" y="4600" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-80" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MindviewServer.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IsLogic = true&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4840" y="4640" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;" edge="1" parent="1" source="bEM4ZgG6ULs1wLHOd_lt-81" target="bEM4ZgG6ULs1wLHOd_lt-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-81" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TaskServer.Instance.LongStart(this._ClientLogic)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4840" y="4680" width="400" height="40" as="geometry" />
@@ -522,6 +528,12 @@
         </mxCell>
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-84" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MindviewServer.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_ClientLogic()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5320" y="4680" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-86" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;新线程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5320" y="4580" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-88" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;新线程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5320" y="4660" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
