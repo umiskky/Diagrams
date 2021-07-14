@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T01:35:56.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="R2Ej9O-DGkIZJudtjFRd" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T01:39:54.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="95RIxVNtTm2NlTpqfU1B" version="14.8.6" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
-    <mxGraphModel dx="677" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="395" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,6 +538,9 @@
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-88" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;新线程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5320" y="4660" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#F19C99;" edge="1" parent="1" source="bEM4ZgG6ULs1wLHOd_lt-89" target="bEM4ZgG6ULs1wLHOd_lt-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-89" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncServer&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ConnecteCallback(this)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="5680" y="4600" width="280" height="40" as="geometry" />
         </mxCell>
@@ -554,6 +557,9 @@
         </mxCell>
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-93" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MindviewServer.Status==Result.Success&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5370" y="4650" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-94" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MindviewServer.OnConnecteCallback(FuncServer client)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="6040" y="4600" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
