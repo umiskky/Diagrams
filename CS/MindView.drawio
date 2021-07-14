@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T07:19:28.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="asfDn07HfUp4bU89QIbO" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T07:23:09.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="HIVKIOaDCI3x5ild0Nou" version="14.8.6" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
-    <mxGraphModel dx="1296" dy="4146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="3899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -654,11 +654,17 @@
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-135" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncServer&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ReceiveBuffer.TryDequeue(out buffer)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="4960" y="4840" width="360" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#7EA6E0;" edge="1" parent="1" source="bEM4ZgG6ULs1wLHOd_lt-138" target="bEM4ZgG6ULs1wLHOd_lt-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bEM4ZgG6ULs1wLHOd_lt-138" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncServer&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_FuncDataReceive(buffer)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="4960" y="4880" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-139" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;接收到数据包后&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4860" y="4890" width="100" height="20" as="geometry" />
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-139" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;缓存中含有数据包后&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4820" y="4890" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bEM4ZgG6ULs1wLHOd_lt-140" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;FuncServer&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_FuncDataReceive(buffer)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="5400" y="4880" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
