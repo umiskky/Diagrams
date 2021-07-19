@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T02:55:59.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="WDLjFWZMij3jHLFlAOAI" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T03:06:31.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="1E1RWkJRubKI5B4fZbUs" version="14.9.0" type="github">
   <diagram id="NZDJZPf9fXLwSOQ-lTgp" name="Page-1">
-    <mxGraphModel dx="918" dy="3899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="4146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -873,11 +873,38 @@
         <mxCell id="2ILHIpGZnRw4VtGVSeOQ-7" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails _home = new HomeCardDetails()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="7520" y="5800" width="360" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF00FF;" edge="1" parent="1" source="2ILHIpGZnRw4VtGVSeOQ-8" target="2ILHIpGZnRw4VtGVSeOQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2ILHIpGZnRw4VtGVSeOQ-8" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;_home.OnLoading(this.window, this.viewmodel)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="7520" y="5840" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2ILHIpGZnRw4VtGVSeOQ-9" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;VRCardDetails.&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;functable.Child = _home&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="7520" y="5880" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-10" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;window = _window&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="7960" y="5840" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-13" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;viewmodel = new HomeCardDetailsViewModel()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="7960" y="5880" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-14" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Client = (VRCardDetailsViewModel)state&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="7960" y="5920" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-15" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Client.ClientStatusChanged += &lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.OnClientStatusChanged&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="7960" y="5960" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-16" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;MindviewServer.Instance.ChangeReport += &lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.OnChangeReport&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="7960" y="6000" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-17" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;viewmodel.Key = this.Client.Number&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="7960" y="6040" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-18" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;viewmodel.PersonnelID = Guid.Empty&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="7960" y="6080" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILHIpGZnRw4VtGVSeOQ-19" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HomeCardDetails&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;.&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;viewmodel.CurrFunc = FuncType.Home&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="7960" y="6120" width="640" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
